@@ -5,17 +5,12 @@
 
 ## 🚨 Forking this repo (please read!)
 
-I want to express my sincere gratitude to [Author's Name] for the incredible work put into the original code, which I've forked for my website. Their dedication and creativity shine through, and I'm honored to build upon their foundation.
+I want to express my sincere gratitude to Brittany Chiang for the incredible work put into the original code, which I've forked for my website. Their dedication and creativity shine through, and I'm honored to build upon their foundation.
 
-**Credit and Thanks to [Author's Name]!**
-If you find this code useful for your own website, please join me in giving credit to [Author's Name] by linking back to their website: [brittanychiang.com](https://brittanychiang.com). Their original creation inspired this project, and it's important to acknowledge their contribution.
+**Credit and Thanks to Brittany Chiang!**
+If you find this code useful for your own website, please join me in giving credit to Brittany Chiang by linking back to their website: [brittanychiang.com](https://brittanychiang.com). Their original creation inspired this project, and it's important to acknowledge their contribution.
 
 I value the open-source community and believe in fostering a culture of appreciation and collaboration. Let's continue to support each other's efforts!
-
-### TL;DR
-
-Feel free to fork this repo, and don't forget to thank and credit [Author's Name] by linking back to [brittanychiang.com](https://brittanychiang.com). Your acknowledgment is a testament to the collaborative spirit of the open-source community. Thanks!
-
 
 ## 🛠 Installation & Set Up
 
