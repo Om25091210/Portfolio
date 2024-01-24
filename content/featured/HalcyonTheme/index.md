@@ -1,15 +1,15 @@
 ---
 date: '1'
-title: 'Halcyon Theme'
+title: 'Sangyan'
 cover: './halcyon.png'
-github: 'https://github.com/bchiang7/halcyon-site'
-external: 'https://halcyon-theme.netlify.com/'
+github: 'https://github.com/Om25091210'
+external: 'https://sangyan.co.in/'
 tech:
-  - VS Code
-  - Sublime Text
-  - Atom
-  - iTerm2
-  - Hyper
+  - Android Studio
+  - JAWA
+  - Kotlin
+  - AdobeXD
+  - Python
 ---
 
-A minimal, dark blue theme for VS Code, Sublime Text, Atom, iTerm, and more. Available on [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode), [Package Control](https://packagecontrol.io/packages/Halcyon%20Theme), [Atom Package Manager](https://atom.io/themes/halcyon-syntax), and [npm](https://www.npmjs.com/package/hyper-halcyon-theme).
+This app is made for the police legal section HIGH-COURT to process the case diary from police station to high court and vice-versa. From this app we will alert police officers for the submission and bringing of the case diary to/from the High-Court. [Learn more](https://drive.google.com/file/d/1Jyl87-ha5FZ5cP8j-pA8iL2fT137iOfV/view).

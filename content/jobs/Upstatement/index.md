@@ -1,13 +1,12 @@
 ---
-date: '2018-05-14'
-title: 'Lead Engineer'
-company: 'Upstatement'
-location: 'Boston, MA'
-range: 'May 2018 - Present'
-url: 'https://www.upstatement.com/'
+date: '2023-27-04'
+title: 'BackEnd Developer'
+company: 'Razorpod'
+location: 'Gurugram, India'
+range: 'May 2023 - Oct 2023'
+url: 'https://razorpod.in/'
 ---
 
-- Deliver high-quality, robust production code for a diverse array of projects for clients including Harvard Business School, Everytown for Gun Safety, Pratt Institute, Koala Health, Vanderbilt University, The 19th News, and more
-- Work alongside creative directors to lead the research, development, and architecture of technical solutions to fulfill business requirements
-- Collaborate with designers, project managers, and other engineers to transform creative concepts into production realities for clients and stakeholders
-- Provide leadership within engineering department through close collaboration, knowledge shares, and mentorship
+- WhatsApp Chatbot Development: Acquired skills in setting up and crafting WhatsApp chatbots to empower businesses, facilitating the expansion of their services through the ease of WhatsApp communication.
+- Gained expertise in utilizing Prisma, TypeScript, and MongoDB for diverse controller development. Specifically, adept in creating controllers for managing roles and permissions. Additionally, successfully developed a robust webhook to validate user location data.
+- Collaborate with designers, project managers to transform creative concepts into production realities for clients and stakeholders

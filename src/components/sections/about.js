@@ -125,7 +125,18 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'TypeScript', 'React', 'Eleventy', 'Node.js', 'WordPress'];
+  const skills = [
+    'JAVA',
+    'Python',
+    'Node.JS',
+    'TypeScript',
+    'React-Native',
+    'Android Studio',
+    'AWS',
+    'Azure',
+    'MongoDB',
+    'Firebase',
+  ];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -135,30 +146,28 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Brittany and I enjoy creating things that live on the internet. My
-              interest in web development started back in 2012 when I decided to try editing custom
-              Tumblr themes — turns out hacking together a custom reblog button taught me a lot
-              about HTML &amp; CSS!
+              Hi there! I'm Om, and I thrive on crafting digital experiences that come to life on
+              the internet. My journey into mobile development ignited in 2020 when I embarked on a
+              mission to assist underprivileged individuals through an app. Little did I know,
+              creating impactful solutions through applications resonates deeply with me.
             </p>
 
             <p>
               Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="https://us.mullenlowe.com/">an advertising agency</a>,{' '}
-              <a href="https://starry.com/">a start-up</a>,{' '}
-              <a href="https://www.apple.com/">a huge corporation</a>, and{' '}
-              <a href="https://scout.camd.northeastern.edu/">a student-led design studio</a>. My
-              main focus these days is building accessible, inclusive products and digital
-              experiences at <a href="https://upstatement.com/">Upstatement</a> for a variety of
-              clients.
+              <a href="https://upilot.com/">UPilot - a CRM and</a>{' '}
+              <a href="https://upilot.com/success-stories/">a vision-driven startup and</a>{' '}
+              <a href="https://razorpod.in/">Razorpod</a>{' '}
+              <a href="https://razorpod.in/about">that Shape brand stories.</a> My main focus these
+              days is building accessible, inclusive products and digital experiences.
             </p>
 
             <p>
-              I also recently{' '}
+              I'm also recently{' '}
               <a href="https://www.newline.co/courses/build-a-spotify-connected-app">
-                launched a course
+                working on this cool project
               </a>{' '}
-              that covers everything you need to build a web app with the Spotify API using Node
-              &amp; React.
+              that encompasses everything you need to make your workflow and information more easily
+              accessible.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
@@ -173,7 +182,7 @@ const About = () => {
           <div className="wrapper">
             <StaticImage
               className="img"
-              src="../../images/me.jpg"
+              src="../../images/me.jpeg"
               width={500}
               quality={95}
               formats={['AUTO', 'WEBP', 'AVIF']}

@@ -1,14 +1,19 @@
 ---
-date: '2019-11-12'
-title: 'Moms Demand Action Mobile App'
-github: ''
-external: 'https://www.upstatement.com/work/moms-demand-action/'
-ios: 'https://apps.apple.com/us/app/demand-action/id1475502876'
-android: 'https://play.google.com/store/apps/details?id=com.momsdemandaction.app'
+date: '2021-07-07'
+title: 'Dhiti-Foundation'
+github: 'https://github.com/Om25091210/dhiti'
+android: 'https://play.google.com/store/apps/details?id=com.aryomtech.dhitifoundation'
+ios: ''
 tech:
-  - NativeScript Vue
-  - iOS
-  - Android
-company: 'Upstatement'
-showInProjects: false
+  - Kotlin
+  - XML
+  - Java
+  - Firebase
+  - Android Studio
+company: 'Freelance'
+showInProjects: true
+---
+
+To increase collaboration and work efficiency between volunteers. To raise funds and contributions.
+
 ---
