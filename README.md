@@ -1,4 +1,3 @@
-
 <h1 align="center">
  Om Yadav
 </h1>
@@ -52,7 +51,7 @@ I value the open-source community and believe in fostering a culture of apprecia
    npm run serve
    ```
 
-## 🎨 Color Reference
+## 🎨 Color for Reference
 
 | Color          | Hex                                                                |
 | -------------- | ------------------------------------------------------------------ |
