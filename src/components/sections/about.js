@@ -163,9 +163,7 @@ const About = () => {
 
             <p>
               I'm also recently{' '}
-              <a href="https://www.newline.co/courses/build-a-spotify-connected-app">
-                working on this cool project
-              </a>{' '}
+              <a href="https://github.com/Om25091210/ProductiveGPT">working on this cool project</a>{' '}
               that encompasses everything you need to make your workflow and information more easily
               accessible.
             </p>
