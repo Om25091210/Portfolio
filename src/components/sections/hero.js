@@ -78,7 +78,7 @@ const Hero = () => {
   const five = (
     <a
       className="email-link"
-      href="https://play.google.com/store/apps/developer?id=ARYOMTECH"
+      href="https://play.google.com/store/apps/developer?id=BitCrackers"
       target="_blank"
       rel="noreferrer">
       Check out my PlayStore!
