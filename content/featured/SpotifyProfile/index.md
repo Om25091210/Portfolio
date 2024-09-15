@@ -1,5 +1,5 @@
 ---
-date: '2'
+date: '6'
 title: 'Dhiti App'
 cover: './demo11.png'
 github: 'https://github.com/Om25091210/dhiti'

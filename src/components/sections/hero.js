@@ -71,7 +71,8 @@ const Hero = () => {
         <a href="https://upstatement.com/" target="_blank" rel="noreferrer">
           #Technophile
         </a>
-        .
+        . I am learning and trying to figure out the secrets of building scalable systems by
+        leveraging Cloud.
       </p>
     </>
   );

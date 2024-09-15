@@ -132,7 +132,7 @@ const About = () => {
     'TypeScript',
     'React-Native',
     'Android Studio',
-    'AWS',
+    'GCP',
     'Azure',
     'MongoDB',
     'Firebase',

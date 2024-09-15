@@ -1,5 +1,5 @@
 ---
-date: '3'
+date: '5'
 title: 'SYNO : Sync with Smile'
 cover: './syno.png'
 external: 'https://github.com/Om25091210/SYNO-sync-with-smile/tree/main'

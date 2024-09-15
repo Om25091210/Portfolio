@@ -13,4 +13,4 @@ tech:
 
 Manage your waste efficiently!!!
 
-Every piece of scrap holds the potential for a sustainable future. With our app, turning trash into treasure becomes both rewarding for your pocket and revitalizing for our planet.
+Every piece of scrap holds the potential for a sustainable future. With our app, turning trash into treasure becomes both rewarding for your pocket and revitalizing for our planet. (Freelance)
