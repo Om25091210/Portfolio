@@ -39,10 +39,13 @@ const StyledHeroSection = styled.section`
     }
   }
 
-  h3 {
+  /* Maintain a larger but slightly smaller size for h3 */
+  h3.big-heading {
     margin-top: 5px;
     color: var(--slate);
-    line-height: 0.9;
+    font-weight: 600;
+    font-size: clamp(var(--fz-xl), 7vw, var(--fz-xxl)); /* Larger, but less than h2 */
+    line-height: 1.1;
   }
 
   p {
@@ -74,9 +77,7 @@ const Hero = () => {
 
   const one = <h1>Hi, my name is</h1>;
   const two = <h2 className="big-heading">Om Yadav.</h2>;
-  const three = (
-    <h3 className="big-heading">I'm focusing on becoming an efficient engineer every day.</h3>
-  );
+  const three = <h3 className="big-heading">Becoming an efficient engineer each day.</h3>;
   const four = (
     <>
       <p>
