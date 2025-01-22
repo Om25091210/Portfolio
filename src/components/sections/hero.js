@@ -65,14 +65,29 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        Seasoned software engineer with diverse expertise in App development and API integrations.
-        Specializes in crafting innovative, user-centric solutions across various domains. Committed
-        to creating engaging applications that prioritize user experience and interaction.{' '}
-        <a href="https://upstatement.com/" target="_blank" rel="noreferrer">
-          #Technophile
+        I'm a seasoned software engineer with a passion for creating impactful, scalable, and secure
+        solutions. As a Cloud Engineer at Searce, I leverage the power of cloud technologies to
+        implement robust and secure systems. My expertise spans across various domains, including
+        app development and seamless API integrations, with a commitment to building user-centric
+        experiences. Beyond my daily work, I'm actively engaged in the tech community, sharing my
+        knowledge and insights through tech-related video content on Instagram{' '}
+        <a href="https://www.instagram.com/duo_coderz/" target="_blank" rel="noreferrer">
+          @duo_coderz
         </a>
-        . I am learning and trying to figure out the secrets of building scalable systems by
-        leveraging Cloud.
+        . I thrive in collaborative environments, contributing to team success with my ability to
+        create and deliver secure software solutions. I'm currently focused on mastering the
+        intricacies of building scalable systems and leveraging the cloud to its fullest potential,
+        while always keeping security at the forefront. I'm driven by a desire to create innovative
+        solutions that push the boundaries of technology. #Technophile | Team Player | Software
+        Creator
+      </p>
+      <p>
+        Connect to explore opportunities or discuss tech! You can also follow my content on
+        Instagram:{' '}
+        <a href="https://www.instagram.com/duo_coderz/" target="_blank" rel="noreferrer">
+          @duo_coderz
+        </a>
+        .
       </p>
     </>
   );
