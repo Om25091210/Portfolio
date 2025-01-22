@@ -7,12 +7,12 @@ import { usePrefersReducedMotion } from '@hooks';
 const StyledHeroSection = styled.section`
   ${({ theme }) => theme.mixins.flexCenter};
   flex-direction: column;
-  align-items: center; /* Align items to the center horizontally */
+  align-items: flex-start;
   min-height: 100vh;
   height: 100vh;
   padding: 0;
-  width: 100%;
-  overflow-x: hidden;
+  width: 100%; /* Added to ensure section does not exceed viewport width */
+  overflow-x: hidden; /* Prevent any horizontal scroll */
 
   @media (max-height: 700px) and (min-width: 700px), (max-width: 360px) {
     height: auto;
@@ -35,17 +35,13 @@ const StyledHeroSection = styled.section`
     margin-top: 5px;
     color: var(--slate);
     line-height: 0.9;
-    text-align: center; /* Center the h3 text horizontally */
   }
 
   p {
     margin: 20px 0 0;
-    width: 80%; /* Set width to 80% to occupy more space */
-    max-width: 700px; /* Set max-width to prevent excessive expansion */
-    word-wrap: break-word;
-    padding: 0 15px; /* Horizontal padding to avoid edge touch */
-    text-align: center; /* Center the text horizontally */
-    display: block; /* ensure paragraph takes space, in case text-align property doesn't work */
+    max-width: 100%; /* Change max-width to 100% */
+    word-wrap: break-word; /* Ensures long words won't break layout */
+    padding-right: 15px;
   }
 
   .email-link {
@@ -90,7 +86,7 @@ const Hero = () => {
         intricacies of building scalable systems and leveraging the cloud to its fullest potential,
         while always keeping security at the forefront. I'm driven by a desire to create innovative
         solutions that push the boundaries of technology. #Technophile | Team Player | Software
-        Developer | Creator
+        eveloper | Creator
       </p>
       <p>
         Connect to explore opportunities or discuss tech! You can also follow my content on
