@@ -11,6 +11,8 @@ const StyledHeroSection = styled.section`
   min-height: 100vh;
   height: 100vh;
   padding: 0;
+  width: 100%; /* Added to ensure section does not exceed viewport width */
+  overflow-x: hidden; /* Prevent any horizontal scroll */
 
   @media (max-height: 700px) and (min-width: 700px), (max-width: 360px) {
     height: auto;
@@ -37,12 +39,15 @@ const StyledHeroSection = styled.section`
 
   p {
     margin: 20px 0 0;
-    max-width: 540px;
+    max-width: 100%; /* Change max-width to 100% */
+    word-wrap: break-word; /* Ensures long words won't break layout */
+    padding-right: 15px;
   }
 
   .email-link {
     ${({ theme }) => theme.mixins.bigButton};
     margin-top: 50px;
+    padding: 15px;
   }
 `;
 
