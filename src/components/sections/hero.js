@@ -11,8 +11,16 @@ const StyledHeroSection = styled.section`
   min-height: 100vh;
   height: 100vh;
   padding: 0;
-  width: 100%; /* Added to ensure section does not exceed viewport width */
-  overflow-x: hidden; /* Prevent any horizontal scroll */
+  width: 100%;
+  overflow-x: hidden;
+
+  /* Added padding-top for mobile screens */
+  @media (max-width: 768px) {
+    /* Adjust the breakpoint as needed */
+    padding-top: var(--nav-height); /* Use your navigation height variable */
+    height: auto; /* Allow content to grow */
+    min-height: auto;
+  }
 
   @media (max-height: 700px) and (min-width: 700px), (max-width: 360px) {
     height: auto;
@@ -39,8 +47,8 @@ const StyledHeroSection = styled.section`
 
   p {
     margin: 20px 0 0;
-    max-width: 100%; /* Change max-width to 100% */
-    word-wrap: break-word; /* Ensures long words won't break layout */
+    max-width: 100%;
+    word-wrap: break-word;
     padding-right: 15px;
   }
 
@@ -82,11 +90,9 @@ const Hero = () => {
           @duo_coderz
         </a>
         . I thrive in collaborative environments, contributing to team success with my ability to
-        create and deliver secure software solutions. I'm currently focused on mastering the
-        intricacies of building scalable systems and leveraging the cloud to its fullest potential,
-        while always keeping security at the forefront. I'm driven by a desire to create innovative
-        solutions that push the boundaries of technology. #Technophile | Team Player | Software
-        eveloper | Creator
+        create and deliver secure solutions. I'm currently focused on mastering the intricacies of
+        building scalable systems and leveraging the cloud to its fullest potential, while always
+        keeping security at the forefront. #Technophile | Team Player | Software eveloper | Creator
       </p>
       <p>
         Connect to explore opportunities or discuss tech! You can also follow my content on
