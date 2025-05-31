@@ -93,7 +93,8 @@ const Hero = () => {
         . I thrive in collaborative environments, contributing to team success with my ability to
         create and deliver secure solutions. I'm currently focused on mastering the intricacies of
         building scalable systems and leveraging the cloud to its fullest potential, while always
-        keeping security at the forefront. #Technophile | Team Player | Software eveloper | Creator
+        keeping security at the forefront. #Technophile | Team Player | Cloud Engineer | Software
+        Developer | Creator
       </p>
       <p>
         Connect to explore opportunities or discuss tech! You can also follow my content on
